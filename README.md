@@ -1,4 +1,4 @@
-# FatimaUlubayova-Pooling-or-Segmentation-Robot-Dispatch-in-Multi-Floor-Buildings
+# Pooling-or-Segmentation-Robot-Dispatch-in-Multi-Floor-Buildings
 
 
 This repository contains the analytical frameworks, numerical verification models, and simulation suites for Chapter 3 of the Ph.D. dissertation **"Optimal Spatial and Temporal Decisions under Uncertainty"** (McMaster University, DeGroote School of Business).
